@@ -1,0 +1,677 @@
+FILE_TYPE = EXPANDEDPARTLIST;
+{ Using PSTWRITER 16.6.0 d001Oct-08-2015 at 22:24:03 }
+DIRECTIVES
+ PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
+ ROOT_DRAWING='NUCLEO-F446RE_BOOSTPACK';
+ POST_TIME='Jun  8 2015 17:42:25';
+ SOURCE_TOOL='CAPTURE_WRITER';
+END_DIRECTIVES;
+
+PART_NAME
+ C1 'CAP_C0603_100PF':;
+
+SECTION_NUMBER 1
+ '@NUCLEO-F446RE_BOOSTPACK.SCHEMATIC1(SCH_1):INS8551316@XXXLZJXXX.CAP.NORMAL(CHIPS)':
+ C_PATH='@\nucleo-f446re_boostpack\.schematic1(sch_1):ins8551316@xxxlzjxxx.\cap.normal\(chips)',
+ P_PATH='@\nucleo-f446re_boostpack\.schematic1(sch_1):page1_ins8551316@xxxlzjxxx.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C10 'CAP1_CC0603_0.1UF':;
+
+SECTION_NUMBER 1
+ '@NUCLEO-F446RE_BOOSTPACK.SCHEMATIC1(SCH_1):INS8541799@ALEX_GENERAL_LIB.CAP1.NORMAL(CHIPS)':
+ C_PATH='@\nucleo-f446re_boostpack\.schematic1(sch_1):ins8541799@alex_general_lib.\cap1.normal\(chips)',
+ P_PATH='@\nucleo-f446re_boostpack\.schematic1(sch_1):page2_ins8541799@alex_general_lib.\cap1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C11 'CAP_C0603_0.1UF':;
+
+SECTION_NUMBER 1
+ '@NUCLEO-F446RE_BOOSTPACK.SCHEMATIC1(SCH_1):INS8546769@XXXLZJXXX.CAP.NORMAL(CHIPS)':
+ C_PATH='@\nucleo-f446re_boostpack\.schematic1(sch_1):ins8546769@xxxlzjxxx.\cap.normal\(chips)',
+ P_PATH='@\nucleo-f446re_boostpack\.schematic1(sch_1):page2_ins8546769@xxxlzjxxx.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C12 'CAP_C0805_10UF':;
+
+SECTION_NUMBER 1
+ '@NUCLEO-F446RE_BOOSTPACK.SCHEMATIC1(SCH_1):INS8546705@XXXLZJXXX.CAP.NORMAL(CHIPS)':
+ C_PATH='@\nucleo-f446re_boostpack\.schematic1(sch_1):ins8546705@xxxlzjxxx.\cap.normal\(chips)',
+ P_PATH='@\nucleo-f446re_boostpack\.schematic1(sch_1):page2_ins8546705@xxxlzjxxx.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C13 'CAP_C0603_0.22UF':;
+
+SECTION_NUMBER 1
+ '@NUCLEO-F446RE_BOOSTPACK.SCHEMATIC1(SCH_1):INS8546681@XXXLZJXXX.CAP.NORMAL(CHIPS)':
+ C_PATH='@\nucleo-f446re_boostpack\.schematic1(sch_1):ins8546681@xxxlzjxxx.\cap.normal\(chips)',
+ P_PATH='@\nucleo-f446re_boostpack\.schematic1(sch_1):page2_ins8546681@xxxlzjxxx.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C14 'CAP NP_CC0603_0.1UF':;
+
+SECTION_NUMBER 1
+ '@NUCLEO-F446RE_BOOSTPACK.SCHEMATIC1(SCH_1):INS8543219@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\nucleo-f446re_boostpack\.schematic1(sch_1):ins8543219@discrete.\cap np.normal\(chips)',
+ P_PATH='@\nucleo-f446re_boostpack\.schematic1(sch_1):page2_ins8543219@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C15 'CAP_C0603_0.1UF':;
+
+SECTION_NUMBER 1
+ '@NUCLEO-F446RE_BOOSTPACK.SCHEMATIC1(SCH_1):INS8545124@XXXLZJXXX.CAP.NORMAL(CHIPS)':
+ C_PATH='@\nucleo-f446re_boostpack\.schematic1(sch_1):ins8545124@xxxlzjxxx.\cap.normal\(chips)',
+ P_PATH='@\nucleo-f446re_boostpack\.schematic1(sch_1):page2_ins8545124@xxxlzjxxx.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C16 'CAP_C0603_12PF':;
+
+SECTION_NUMBER 1
+ '@NUCLEO-F446RE_BOOSTPACK.SCHEMATIC1(SCH_1):INS8545012@XXXLZJXXX.CAP.NORMAL(CHIPS)':
+ C_PATH='@\nucleo-f446re_boostpack\.schematic1(sch_1):ins8545012@xxxlzjxxx.\cap.normal\(chips)',
+ P_PATH='@\nucleo-f446re_boostpack\.schematic1(sch_1):page2_ins8545012@xxxlzjxxx.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C17 'CAP_C0603_0.1UF':;
+
+SECTION_NUMBER 1
+ '@NUCLEO-F446RE_BOOSTPACK.SCHEMATIC1(SCH_1):INS8545569@XXXLZJXXX.CAP.NORMAL(CHIPS)':
+ C_PATH='@\nucleo-f446re_boostpack\.schematic1(sch_1):ins8545569@xxxlzjxxx.\cap.normal\(chips)',
+ P_PATH='@\nucleo-f446re_boostpack\.schematic1(sch_1):page2_ins8545569@xxxlzjxxx.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C2 'CAP_C0603_68PF':;
+
+SECTION_NUMBER 1
+ '@NUCLEO-F446RE_BOOSTPACK.SCHEMATIC1(SCH_1):INS8551342@XXXLZJXXX.CAP.NORMAL(CHIPS)':
+ C_PATH='@\nucleo-f446re_boostpack\.schematic1(sch_1):ins8551342@xxxlzjxxx.\cap.normal\(chips)',
+ P_PATH='@\nucleo-f446re_boostpack\.schematic1(sch_1):page1_ins8551342@xxxlzjxxx.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C3 'CAP_C1206_22UF':;
+
+SECTION_NUMBER 1
+ '@NUCLEO-F446RE_BOOSTPACK.SCHEMATIC1(SCH_1):INS8551505@XXXLZJXXX.CAP.NORMAL(CHIPS)':
+ C_PATH='@\nucleo-f446re_boostpack\.schematic1(sch_1):ins8551505@xxxlzjxxx.\cap.normal\(chips)',
+ P_PATH='@\nucleo-f446re_boostpack\.schematic1(sch_1):page1_ins8551505@xxxlzjxxx.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C4 'CAP_C0805_10UF':;
+
+SECTION_NUMBER 1
+ '@NUCLEO-F446RE_BOOSTPACK.SCHEMATIC1(SCH_1):INS8551803@XXXLZJXXX.CAP.NORMAL(CHIPS)':
+ C_PATH='@\nucleo-f446re_boostpack\.schematic1(sch_1):ins8551803@xxxlzjxxx.\cap.normal\(chips)',
+ P_PATH='@\nucleo-f446re_boostpack\.schematic1(sch_1):page1_ins8551803@xxxlzjxxx.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C5 'CAP_C0805_10UF':;
+
+SECTION_NUMBER 1
+ '@NUCLEO-F446RE_BOOSTPACK.SCHEMATIC1(SCH_1):INS8550752@XXXLZJXXX.CAP.NORMAL(CHIPS)':
+ C_PATH='@\nucleo-f446re_boostpack\.schematic1(sch_1):ins8550752@xxxlzjxxx.\cap.normal\(chips)',
+ P_PATH='@\nucleo-f446re_boostpack\.schematic1(sch_1):page1_ins8550752@xxxlzjxxx.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C6 'CAP_CC0603_10UF':;
+
+SECTION_NUMBER 1
+ '@NUCLEO-F446RE_BOOSTPACK.SCHEMATIC1(SCH_1):INS8542175@ALEX_GENERAL_LIB.CAP.NORMAL(CHIPS)':
+ C_PATH='@\nucleo-f446re_boostpack\.schematic1(sch_1):ins8542175@alex_general_lib.\cap.normal\(chips)',
+ P_PATH='@\nucleo-f446re_boostpack\.schematic1(sch_1):page2_ins8542175@alex_general_lib.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C7 'CAP1_CC0603_0.1UF':;
+
+SECTION_NUMBER 1
+ '@NUCLEO-F446RE_BOOSTPACK.SCHEMATIC1(SCH_1):INS8542191@ALEX_GENERAL_LIB.CAP1.NORMAL(CHIPS)':
+ C_PATH='@\nucleo-f446re_boostpack\.schematic1(sch_1):ins8542191@alex_general_lib.\cap1.normal\(chips)',
+ P_PATH='@\nucleo-f446re_boostpack\.schematic1(sch_1):page2_ins8542191@alex_general_lib.\cap1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C8 'CAP_C0603_0.1UF':;
+
+SECTION_NUMBER 1
+ '@NUCLEO-F446RE_BOOSTPACK.SCHEMATIC1(SCH_1):INS8546043@XXXLZJXXX.CAP.NORMAL(CHIPS)':
+ C_PATH='@\nucleo-f446re_boostpack\.schematic1(sch_1):ins8546043@xxxlzjxxx.\cap.normal\(chips)',
+ P_PATH='@\nucleo-f446re_boostpack\.schematic1(sch_1):page2_ins8546043@xxxlzjxxx.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C9 'CAP1_CC0603_0.1UF':;
+
+SECTION_NUMBER 1
+ '@NUCLEO-F446RE_BOOSTPACK.SCHEMATIC1(SCH_1):INS8542207@ALEX_GENERAL_LIB.CAP1.NORMAL(CHIPS)':
+ C_PATH='@\nucleo-f446re_boostpack\.schematic1(sch_1):ins8542207@alex_general_lib.\cap1.normal\(chips)',
+ P_PATH='@\nucleo-f446re_boostpack\.schematic1(sch_1):page2_ins8542207@alex_general_lib.\cap1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D1 'D SCHOTTKY_SOD-123_MBRM0520':;
+
+SECTION_NUMBER 1
+ '@NUCLEO-F446RE_BOOSTPACK.SCHEMATIC1(SCH_1):INS8554119@XXXLZJXXX.D SCHOTTKY.NORMAL(CHIPS)':
+ C_PATH='@\nucleo-f446re_boostpack\.schematic1(sch_1):ins8554119@xxxlzjxxx.\d schottky.normal\(chips)',
+ P_PATH='@\nucleo-f446re_boostpack\.schematic1(sch_1):page1_ins8554119@xxxlzjxxx.\d schottky.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D2 'D SCHOTTKY_SOD-123_MBRM0520':;
+
+SECTION_NUMBER 1
+ '@NUCLEO-F446RE_BOOSTPACK.SCHEMATIC1(SCH_1):INS8545194@XXXLZJXXX.D SCHOTTKY.NORMAL(CHIPS)':
+ C_PATH='@\nucleo-f446re_boostpack\.schematic1(sch_1):ins8545194@xxxlzjxxx.\d schottky.normal\(chips)',
+ P_PATH='@\nucleo-f446re_boostpack\.schematic1(sch_1):page2_ins8545194@xxxlzjxxx.\d schottky.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J1 'CON2_POWER2A_BATTERY':;
+
+SECTION_NUMBER 1
+ '@NUCLEO-F446RE_BOOSTPACK.SCHEMATIC1(SCH_1):INS8551760@ALEX_GENERAL_LIB.CON2.NORMAL(CHIPS)':
+ C_PATH='@\nucleo-f446re_boostpack\.schematic1(sch_1):ins8551760@alex_general_lib.\con2.normal\(chips)',
+ P_PATH='@\nucleo-f446re_boostpack\.schematic1(sch_1):page1_ins8551760@alex_general_lib.\con2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L1 'INDUCTOR_L4532-M_10UH':;
+
+SECTION_NUMBER 1
+ '@NUCLEO-F446RE_BOOSTPACK.SCHEMATIC1(SCH_1):INS8551272@XXXLZJXXX.INDUCTOR.NORMAL(CHIPS)':
+ C_PATH='@\nucleo-f446re_boostpack\.schematic1(sch_1):ins8551272@xxxlzjxxx.\inductor.normal\(chips)',
+ P_PATH='@\nucleo-f446re_boostpack\.schematic1(sch_1):page1_ins8551272@xxxlzjxxx.\inductor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L2 'INDUCTOR_L0603_BEAD':;
+
+SECTION_NUMBER 1
+ '@NUCLEO-F446RE_BOOSTPACK.SCHEMATIC1(SCH_1):INS8546095@XXXLZJXXX.INDUCTOR.NORMAL(CHIPS)':
+ C_PATH='@\nucleo-f446re_boostpack\.schematic1(sch_1):ins8546095@xxxlzjxxx.\inductor.normal\(chips)',
+ P_PATH='@\nucleo-f446re_boostpack\.schematic1(sch_1):page2_ins8546095@xxxlzjxxx.\inductor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L3 'BEAD_L0603_BLM18PG600SH1':;
+
+SECTION_NUMBER 1
+ '@NUCLEO-F446RE_BOOSTPACK.SCHEMATIC1(SCH_1):INS8542139@ALEX_GENERAL_LIB.BEAD.NORMAL(CHIPS)':
+ C_PATH='@\nucleo-f446re_boostpack\.schematic1(sch_1):ins8542139@alex_general_lib.\bead.normal\(chips)',
+ P_PATH='@\nucleo-f446re_boostpack\.schematic1(sch_1):page2_ins8542139@alex_general_lib.\bead.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L4 'INDUCTOR_L0603_BEAD':;
+
+SECTION_NUMBER 1
+ '@NUCLEO-F446RE_BOOSTPACK.SCHEMATIC1(SCH_1):INS8546949@XXXLZJXXX.INDUCTOR.NORMAL(CHIPS)':
+ C_PATH='@\nucleo-f446re_boostpack\.schematic1(sch_1):ins8546949@xxxlzjxxx.\inductor.normal\(chips)',
+ P_PATH='@\nucleo-f446re_boostpack\.schematic1(sch_1):page2_ins8546949@xxxlzjxxx.\inductor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L5 'BEAD_L0603_BLM18PG600SH1':;
+
+SECTION_NUMBER 1
+ '@NUCLEO-F446RE_BOOSTPACK.SCHEMATIC1(SCH_1):INS8541783@ALEX_GENERAL_LIB.BEAD.NORMAL(CHIPS)':
+ C_PATH='@\nucleo-f446re_boostpack\.schematic1(sch_1):ins8541783@alex_general_lib.\bead.normal\(chips)',
+ P_PATH='@\nucleo-f446re_boostpack\.schematic1(sch_1):page2_ins8541783@alex_general_lib.\bead.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L6 'INDUCTOR_L0603_BEAD':;
+
+SECTION_NUMBER 1
+ '@NUCLEO-F446RE_BOOSTPACK.SCHEMATIC1(SCH_1):INS8545689@XXXLZJXXX.INDUCTOR.NORMAL(CHIPS)':
+ C_PATH='@\nucleo-f446re_boostpack\.schematic1(sch_1):ins8545689@xxxlzjxxx.\inductor.normal\(chips)',
+ P_PATH='@\nucleo-f446re_boostpack\.schematic1(sch_1):page2_ins8545689@xxxlzjxxx.\inductor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ LED1 'LED_LED0805_LED-RED':;
+
+SECTION_NUMBER 1
+ '@NUCLEO-F446RE_BOOSTPACK.SCHEMATIC1(SCH_1):INS8547556@XXXLZJXXX.LED.NORMAL(CHIPS)':
+ C_PATH='@\nucleo-f446re_boostpack\.schematic1(sch_1):ins8547556@xxxlzjxxx.\led.normal\(chips)',
+ P_PATH='@\nucleo-f446re_boostpack\.schematic1(sch_1):page1_ins8547556@xxxlzjxxx.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ LED2 'LED_LED0805_LED-GREEN':;
+
+SECTION_NUMBER 1
+ '@NUCLEO-F446RE_BOOSTPACK.SCHEMATIC1(SCH_1):INS8547592@XXXLZJXXX.LED.NORMAL(CHIPS)':
+ C_PATH='@\nucleo-f446re_boostpack\.schematic1(sch_1):ins8547592@xxxlzjxxx.\led.normal\(chips)',
+ P_PATH='@\nucleo-f446re_boostpack\.schematic1(sch_1):page1_ins8547592@xxxlzjxxx.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ LED3 'LED_LED0805_LED-GREEN':;
+
+SECTION_NUMBER 1
+ '@NUCLEO-F446RE_BOOSTPACK.SCHEMATIC1(SCH_1):INS8552199@XXXLZJXXX.LED.NORMAL(CHIPS)':
+ C_PATH='@\nucleo-f446re_boostpack\.schematic1(sch_1):ins8552199@xxxlzjxxx.\led.normal\(chips)',
+ P_PATH='@\nucleo-f446re_boostpack\.schematic1(sch_1):page1_ins8552199@xxxlzjxxx.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R1 'RES1_RC0603_10K':;
+
+SECTION_NUMBER 1
+ '@NUCLEO-F446RE_BOOSTPACK.SCHEMATIC1(SCH_1):INS8551218@ALEX_GENERAL_LIB.RES1.NORMAL(CHIPS)':
+ C_PATH='@\nucleo-f446re_boostpack\.schematic1(sch_1):ins8551218@alex_general_lib.\res1.normal\(chips)',
+ P_PATH='@\nucleo-f446re_boostpack\.schematic1(sch_1):page1_ins8551218@alex_general_lib.\res1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R10 'RES1_RC0603_47K':;
+
+SECTION_NUMBER 1
+ '@NUCLEO-F446RE_BOOSTPACK.SCHEMATIC1(SCH_1):INS8541975@ALEX_GENERAL_LIB.RES1.NORMAL(CHIPS)':
+ C_PATH='@\nucleo-f446re_boostpack\.schematic1(sch_1):ins8541975@alex_general_lib.\res1.normal\(chips)',
+ P_PATH='@\nucleo-f446re_boostpack\.schematic1(sch_1):page2_ins8541975@alex_general_lib.\res1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R11 'RES1_RC0603_47K':;
+
+SECTION_NUMBER 1
+ '@NUCLEO-F446RE_BOOSTPACK.SCHEMATIC1(SCH_1):INS8541991@ALEX_GENERAL_LIB.RES1.NORMAL(CHIPS)':
+ C_PATH='@\nucleo-f446re_boostpack\.schematic1(sch_1):ins8541991@alex_general_lib.\res1.normal\(chips)',
+ P_PATH='@\nucleo-f446re_boostpack\.schematic1(sch_1):page2_ins8541991@alex_general_lib.\res1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R12 'RES1_R0603_47K':;
+
+SECTION_NUMBER 1
+ '@NUCLEO-F446RE_BOOSTPACK.SCHEMATIC1(SCH_1):INS8546853@XXXLZJXXX.RES1.NORMAL(CHIPS)':
+ C_PATH='@\nucleo-f446re_boostpack\.schematic1(sch_1):ins8546853@xxxlzjxxx.\res1.normal\(chips)',
+ P_PATH='@\nucleo-f446re_boostpack\.schematic1(sch_1):page2_ins8546853@xxxlzjxxx.\res1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R13 'RES1_R0603_47K':;
+
+SECTION_NUMBER 1
+ '@NUCLEO-F446RE_BOOSTPACK.SCHEMATIC1(SCH_1):INS8546869@XXXLZJXXX.RES1.NORMAL(CHIPS)':
+ C_PATH='@\nucleo-f446re_boostpack\.schematic1(sch_1):ins8546869@xxxlzjxxx.\res1.normal\(chips)',
+ P_PATH='@\nucleo-f446re_boostpack\.schematic1(sch_1):page2_ins8546869@xxxlzjxxx.\res1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R14 'RES1_RC0603_47K':;
+
+SECTION_NUMBER 1
+ '@NUCLEO-F446RE_BOOSTPACK.SCHEMATIC1(SCH_1):INS8541865@ALEX_GENERAL_LIB.RES1.NORMAL(CHIPS)':
+ C_PATH='@\nucleo-f446re_boostpack\.schematic1(sch_1):ins8541865@alex_general_lib.\res1.normal\(chips)',
+ P_PATH='@\nucleo-f446re_boostpack\.schematic1(sch_1):page2_ins8541865@alex_general_lib.\res1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R15 'RES1_RC0603_47K':;
+
+SECTION_NUMBER 1
+ '@NUCLEO-F446RE_BOOSTPACK.SCHEMATIC1(SCH_1):INS8541889@ALEX_GENERAL_LIB.RES1.NORMAL(CHIPS)':
+ C_PATH='@\nucleo-f446re_boostpack\.schematic1(sch_1):ins8541889@alex_general_lib.\res1.normal\(chips)',
+ P_PATH='@\nucleo-f446re_boostpack\.schematic1(sch_1):page2_ins8541889@alex_general_lib.\res1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R16 'RES1_RC0603_47K':;
+
+SECTION_NUMBER 1
+ '@NUCLEO-F446RE_BOOSTPACK.SCHEMATIC1(SCH_1):INS8543486@ALEX_GENERAL_LIB.RES1.NORMAL(CHIPS)':
+ C_PATH='@\nucleo-f446re_boostpack\.schematic1(sch_1):ins8543486@alex_general_lib.\res1.normal\(chips)',
+ P_PATH='@\nucleo-f446re_boostpack\.schematic1(sch_1):page2_ins8543486@alex_general_lib.\res1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R17 'RES1_RC0603_47K':;
+
+SECTION_NUMBER 1
+ '@NUCLEO-F446RE_BOOSTPACK.SCHEMATIC1(SCH_1):INS8543502@ALEX_GENERAL_LIB.RES1.NORMAL(CHIPS)':
+ C_PATH='@\nucleo-f446re_boostpack\.schematic1(sch_1):ins8543502@alex_general_lib.\res1.normal\(chips)',
+ P_PATH='@\nucleo-f446re_boostpack\.schematic1(sch_1):page2_ins8543502@alex_general_lib.\res1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R18 'RES1_RC0603_47K':;
+
+SECTION_NUMBER 1
+ '@NUCLEO-F446RE_BOOSTPACK.SCHEMATIC1(SCH_1):INS8543558@ALEX_GENERAL_LIB.RES1.NORMAL(CHIPS)':
+ C_PATH='@\nucleo-f446re_boostpack\.schematic1(sch_1):ins8543558@alex_general_lib.\res1.normal\(chips)',
+ P_PATH='@\nucleo-f446re_boostpack\.schematic1(sch_1):page2_ins8543558@alex_general_lib.\res1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R19 'RES1_R0603_4.7K':;
+
+SECTION_NUMBER 1
+ '@NUCLEO-F446RE_BOOSTPACK.SCHEMATIC1(SCH_1):INS8545064@XXXLZJXXX.RES1.NORMAL(CHIPS)':
+ C_PATH='@\nucleo-f446re_boostpack\.schematic1(sch_1):ins8545064@xxxlzjxxx.\res1.normal\(chips)',
+ P_PATH='@\nucleo-f446re_boostpack\.schematic1(sch_1):page2_ins8545064@xxxlzjxxx.\res1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R2 'RES1_RC0603_10K':;
+
+SECTION_NUMBER 1
+ '@NUCLEO-F446RE_BOOSTPACK.SCHEMATIC1(SCH_1):INS8551192@ALEX_GENERAL_LIB.RES1.NORMAL(CHIPS)':
+ C_PATH='@\nucleo-f446re_boostpack\.schematic1(sch_1):ins8551192@alex_general_lib.\res1.normal\(chips)',
+ P_PATH='@\nucleo-f446re_boostpack\.schematic1(sch_1):page1_ins8551192@alex_general_lib.\res1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R20 'RES1_R0603_4.7K':;
+
+SECTION_NUMBER 1
+ '@NUCLEO-F446RE_BOOSTPACK.SCHEMATIC1(SCH_1):INS8545080@XXXLZJXXX.RES1.NORMAL(CHIPS)':
+ C_PATH='@\nucleo-f446re_boostpack\.schematic1(sch_1):ins8545080@xxxlzjxxx.\res1.normal\(chips)',
+ P_PATH='@\nucleo-f446re_boostpack\.schematic1(sch_1):page2_ins8545080@xxxlzjxxx.\res1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R3 'RES1_RC0603_10K':;
+
+SECTION_NUMBER 1
+ '@NUCLEO-F446RE_BOOSTPACK.SCHEMATIC1(SCH_1):INS8559797@ALEX_GENERAL_LIB.RES1.NORMAL(CHIPS)':
+ C_PATH='@\nucleo-f446re_boostpack\.schematic1(sch_1):ins8559797@alex_general_lib.\res1.normal\(chips)',
+ P_PATH='@\nucleo-f446re_boostpack\.schematic1(sch_1):page1_ins8559797@alex_general_lib.\res1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R4 'RES1_RC0603_10K':;
+
+SECTION_NUMBER 1
+ '@NUCLEO-F446RE_BOOSTPACK.SCHEMATIC1(SCH_1):INS8550946@ALEX_GENERAL_LIB.RES1.NORMAL(CHIPS)':
+ C_PATH='@\nucleo-f446re_boostpack\.schematic1(sch_1):ins8550946@alex_general_lib.\res1.normal\(chips)',
+ P_PATH='@\nucleo-f446re_boostpack\.schematic1(sch_1):page1_ins8550946@alex_general_lib.\res1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R5 'RES1_RC0603_10K':;
+
+SECTION_NUMBER 1
+ '@NUCLEO-F446RE_BOOSTPACK.SCHEMATIC1(SCH_1):INS8550962@ALEX_GENERAL_LIB.RES1.NORMAL(CHIPS)':
+ C_PATH='@\nucleo-f446re_boostpack\.schematic1(sch_1):ins8550962@alex_general_lib.\res1.normal\(chips)',
+ P_PATH='@\nucleo-f446re_boostpack\.schematic1(sch_1):page1_ins8550962@alex_general_lib.\res1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R6 'RES1_RC0603_10K':;
+
+SECTION_NUMBER 1
+ '@NUCLEO-F446RE_BOOSTPACK.SCHEMATIC1(SCH_1):INS8559781@ALEX_GENERAL_LIB.RES1.NORMAL(CHIPS)':
+ C_PATH='@\nucleo-f446re_boostpack\.schematic1(sch_1):ins8559781@alex_general_lib.\res1.normal\(chips)',
+ P_PATH='@\nucleo-f446re_boostpack\.schematic1(sch_1):page1_ins8559781@alex_general_lib.\res1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R7 'RES1_R0603_470R':;
+
+SECTION_NUMBER 1
+ '@NUCLEO-F446RE_BOOSTPACK.SCHEMATIC1(SCH_1):INS8552215@XXXLZJXXX.RES1.NORMAL(CHIPS)':
+ C_PATH='@\nucleo-f446re_boostpack\.schematic1(sch_1):ins8552215@xxxlzjxxx.\res1.normal\(chips)',
+ P_PATH='@\nucleo-f446re_boostpack\.schematic1(sch_1):page1_ins8552215@xxxlzjxxx.\res1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R8 'RES1_R0603_47K':;
+
+SECTION_NUMBER 1
+ '@NUCLEO-F446RE_BOOSTPACK.SCHEMATIC1(SCH_1):INS8545999@XXXLZJXXX.RES1.NORMAL(CHIPS)':
+ C_PATH='@\nucleo-f446re_boostpack\.schematic1(sch_1):ins8545999@xxxlzjxxx.\res1.normal\(chips)',
+ P_PATH='@\nucleo-f446re_boostpack\.schematic1(sch_1):page2_ins8545999@xxxlzjxxx.\res1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R9 'RES1_R0603_47K':;
+
+SECTION_NUMBER 1
+ '@NUCLEO-F446RE_BOOSTPACK.SCHEMATIC1(SCH_1):INS8546019@XXXLZJXXX.RES1.NORMAL(CHIPS)':
+ C_PATH='@\nucleo-f446re_boostpack\.schematic1(sch_1):ins8546019@xxxlzjxxx.\res1.normal\(chips)',
+ P_PATH='@\nucleo-f446re_boostpack\.schematic1(sch_1):page2_ins8546019@xxxlzjxxx.\res1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ SW1 'SWITCH-SPST-4P_SW-4P-5R4X4R5_BA':;
+
+SECTION_NUMBER 1
+ '@NUCLEO-F446RE_BOOSTPACK.SCHEMATIC1(SCH_1):INS8547378@XXXLZJXXX.SWITCH-SPST-4P.NORMAL(CHIPS)':
+ C_PATH='@\nucleo-f446re_boostpack\.schematic1(sch_1):ins8547378@xxxlzjxxx.\switch-spst-4p.normal\(chips)',
+ P_PATH='@\nucleo-f446re_boostpack\.schematic1(sch_1):page1_ins8547378@xxxlzjxxx.\switch-spst-4p.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ SW2 'SWITCH-SPST-4P_SW-4P-5R4X4R5_EN':;
+
+SECTION_NUMBER 1
+ '@NUCLEO-F446RE_BOOSTPACK.SCHEMATIC1(SCH_1):INS8547398@XXXLZJXXX.SWITCH-SPST-4P.NORMAL(CHIPS)':
+ C_PATH='@\nucleo-f446re_boostpack\.schematic1(sch_1):ins8547398@xxxlzjxxx.\switch-spst-4p.normal\(chips)',
+ P_PATH='@\nucleo-f446re_boostpack\.schematic1(sch_1):page1_ins8547398@xxxlzjxxx.\switch-spst-4p.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ SW3 'SWITCH-SPST-4P_SW-4P-5R4X4R5_ME':;
+
+SECTION_NUMBER 1
+ '@NUCLEO-F446RE_BOOSTPACK.SCHEMATIC1(SCH_1):INS8547418@XXXLZJXXX.SWITCH-SPST-4P.NORMAL(CHIPS)':
+ C_PATH='@\nucleo-f446re_boostpack\.schematic1(sch_1):ins8547418@xxxlzjxxx.\switch-spst-4p.normal\(chips)',
+ P_PATH='@\nucleo-f446re_boostpack\.schematic1(sch_1):page1_ins8547418@xxxlzjxxx.\switch-spst-4p.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TFT1 '2.4TFT_TFT_2_4_2.4TFT':;
+
+SECTION_NUMBER 1
+ '@NUCLEO-F446RE_BOOSTPACK.SCHEMATIC1(SCH_1):INS8548509@XXXLZJXXX.2.4TFT.NORMAL(CHIPS)':
+ C_PATH='@\nucleo-f446re_boostpack\.schematic1(sch_1):ins8548509@xxxlzjxxx.\2.4tft.normal\(chips)',
+ P_PATH='@\nucleo-f446re_boostpack\.schematic1(sch_1):page1_ins8548509@xxxlzjxxx.\2.4tft.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TP1 'TESTPOINT_TP-0R75_TESTPOINT':;
+
+SECTION_NUMBER 1
+ '@NUCLEO-F446RE_BOOSTPACK.SCHEMATIC1(SCH_1):INS8552132@XXXLZJXXX.TESTPOINT.NORMAL(CHIPS)':
+ C_PATH='@\nucleo-f446re_boostpack\.schematic1(sch_1):ins8552132@xxxlzjxxx.\testpoint.normal\(chips)',
+ P_PATH='@\nucleo-f446re_boostpack\.schematic1(sch_1):page1_ins8552132@xxxlzjxxx.\testpoint.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TP2 'TESTPOINT_TP-0R75_TESTPOINT':;
+
+SECTION_NUMBER 1
+ '@NUCLEO-F446RE_BOOSTPACK.SCHEMATIC1(SCH_1):INS8552146@XXXLZJXXX.TESTPOINT.NORMAL(CHIPS)':
+ C_PATH='@\nucleo-f446re_boostpack\.schematic1(sch_1):ins8552146@xxxlzjxxx.\testpoint.normal\(chips)',
+ P_PATH='@\nucleo-f446re_boostpack\.schematic1(sch_1):page1_ins8552146@xxxlzjxxx.\testpoint.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U1 'NUCLEO-F446RE_NUCLEO-F446RE_NUC':;
+
+SECTION_NUMBER 1
+ '@NUCLEO-F446RE_BOOSTPACK.SCHEMATIC1(SCH_1):INS108@XXXLZJXXX.NUCLEO-F446REA.NORMAL(CHIPS)':
+ C_PATH='@\nucleo-f446re_boostpack\.schematic1(sch_1):ins108@xxxlzjxxx.\nucleo-f446rea.normal\(chips)',
+ P_PATH='@\nucleo-f446re_boostpack\.schematic1(sch_1):page1_ins108@xxxlzjxxx.\nucleo-f446rea.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='A';
+
+SECTION_NUMBER 2
+ '@NUCLEO-F446RE_BOOSTPACK.SCHEMATIC1(SCH_1):INS277@XXXLZJXXX.NUCLEO-F446REB.NORMAL(CHIPS)':
+ C_PATH='@\nucleo-f446re_boostpack\.schematic1(sch_1):ins277@xxxlzjxxx.\nucleo-f446reb.normal\(chips)',
+ P_PATH='@\nucleo-f446re_boostpack\.schematic1(sch_1):page1_ins277@xxxlzjxxx.\nucleo-f446reb.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='B';
+
+PART_NAME
+ U2 'BQ25015_BQ25015_BQ25015':;
+
+SECTION_NUMBER 1
+ '@NUCLEO-F446RE_BOOSTPACK.SCHEMATIC1(SCH_1):INS8548577@XXXLZJXXX.BQ25015.NORMAL(CHIPS)':
+ C_PATH='@\nucleo-f446re_boostpack\.schematic1(sch_1):ins8548577@xxxlzjxxx.\bq25015.normal\(chips)',
+ P_PATH='@\nucleo-f446re_boostpack\.schematic1(sch_1):page1_ins8548577@xxxlzjxxx.\bq25015.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U3 'BMP180_BMP180_BMP180':;
+
+SECTION_NUMBER 1
+ '@NUCLEO-F446RE_BOOSTPACK.SCHEMATIC1(SCH_1):INS8545957@XXXLZJXXX.BMP180.NORMAL(CHIPS)':
+ C_PATH='@\nucleo-f446re_boostpack\.schematic1(sch_1):ins8545957@xxxlzjxxx.\bmp180.normal\(chips)',
+ P_PATH='@\nucleo-f446re_boostpack\.schematic1(sch_1):page2_ins8545957@xxxlzjxxx.\bmp180.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U4 'ADXL345_1_LGA-14_ADXL345':;
+
+SECTION_NUMBER 1
+ '@NUCLEO-F446RE_BOOSTPACK.SCHEMATIC1(SCH_1):INS8541935@F543_WIND_V30A.ADXL345_1.NORMAL(CHIPS)':
+ C_PATH='@\nucleo-f446re_boostpack\.schematic1(sch_1):ins8541935@f543_wind_v30a.\adxl345_1.normal\(chips)',
+ P_PATH='@\nucleo-f446re_boostpack\.schematic1(sch_1):page2_ins8541935@f543_wind_v30a.\adxl345_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U5 'AD7414ARTZ-OREEL7_SOT23-6_AD741':;
+
+SECTION_NUMBER 1
+ '@NUCLEO-F446RE_BOOSTPACK.SCHEMATIC1(SCH_1):INS8541759@XXXLZJXXX.AD7414ARTZ-OREEL7.NORMAL(CHIPS)':
+ C_PATH='@\nucleo-f446re_boostpack\.schematic1(sch_1):ins8541759@xxxlzjxxx.\ad7414artz-oreel7.normal\(chips)',
+ P_PATH='@\nucleo-f446re_boostpack\.schematic1(sch_1):page2_ins8541759@xxxlzjxxx.\ad7414artz-oreel7.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U6 'HMC5883_TQFN-3X3-16_HMC5883L':;
+
+SECTION_NUMBER 1
+ '@NUCLEO-F446RE_BOOSTPACK.SCHEMATIC1(SCH_1):INS8546905@XXXLZJXXX.HMC5883.NORMAL(CHIPS)':
+ C_PATH='@\nucleo-f446re_boostpack\.schematic1(sch_1):ins8546905@xxxlzjxxx.\hmc5883.normal\(chips)',
+ P_PATH='@\nucleo-f446re_boostpack\.schematic1(sch_1):page2_ins8546905@xxxlzjxxx.\hmc5883.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U7 'AT24C512_SOIC8_AT24C512':;
+
+SECTION_NUMBER 1
+ '@NUCLEO-F446RE_BOOSTPACK.SCHEMATIC1(SCH_1):INS8543111@XXXLZJXXX.AT24C512.NORMAL(CHIPS)':
+ C_PATH='@\nucleo-f446re_boostpack\.schematic1(sch_1):ins8543111@xxxlzjxxx.\at24c512.normal\(chips)',
+ P_PATH='@\nucleo-f446re_boostpack\.schematic1(sch_1):page2_ins8543111@xxxlzjxxx.\at24c512.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U8 'PCF8563_SOIC8_PCF8563':;
+
+SECTION_NUMBER 1
+ '@NUCLEO-F446RE_BOOSTPACK.SCHEMATIC1(SCH_1):INS8545262@XXXLZJXXX.PCF8563.NORMAL(CHIPS)':
+ C_PATH='@\nucleo-f446re_boostpack\.schematic1(sch_1):ins8545262@xxxlzjxxx.\pcf8563.normal\(chips)',
+ P_PATH='@\nucleo-f446re_boostpack\.schematic1(sch_1):page2_ins8545262@xxxlzjxxx.\pcf8563.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U9 'W25QXX_SO-8-300_W25QXX':;
+
+SECTION_NUMBER 1
+ '@NUCLEO-F446RE_BOOSTPACK.SCHEMATIC1(SCH_1):INS8545661@XXXLZJXXX.W25QXX.NORMAL(CHIPS)':
+ C_PATH='@\nucleo-f446re_boostpack\.schematic1(sch_1):ins8545661@xxxlzjxxx.\w25qxx.normal\(chips)',
+ P_PATH='@\nucleo-f446re_boostpack\.schematic1(sch_1):page2_ins8545661@xxxlzjxxx.\w25qxx.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ USB1 'MICROUSB_USB-MICRO_MICROUSB':;
+
+SECTION_NUMBER 1
+ '@NUCLEO-F446RE_BOOSTPACK.SCHEMATIC1(SCH_1):INS8552486@XXXLZJXXX.MICROUSB.NORMAL(CHIPS)':
+ C_PATH='@\nucleo-f446re_boostpack\.schematic1(sch_1):ins8552486@xxxlzjxxx.\microusb.normal\(chips)',
+ P_PATH='@\nucleo-f446re_boostpack\.schematic1(sch_1):page1_ins8552486@xxxlzjxxx.\microusb.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ X1 'XTAL_X-2P-3R2X1R5-SMD_32.768K':;
+
+SECTION_NUMBER 1
+ '@NUCLEO-F446RE_BOOSTPACK.SCHEMATIC1(SCH_1):INS8544984@XXXLZJXXX.XTAL.NORMAL(CHIPS)':
+ C_PATH='@\nucleo-f446re_boostpack\.schematic1(sch_1):ins8544984@xxxlzjxxx.\xtal.normal\(chips)',
+ P_PATH='@\nucleo-f446re_boostpack\.schematic1(sch_1):page2_ins8544984@xxxlzjxxx.\xtal.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+END.

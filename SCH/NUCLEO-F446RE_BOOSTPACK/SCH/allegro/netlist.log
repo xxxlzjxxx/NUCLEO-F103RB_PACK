@@ -1,0 +1,21 @@
+{ Using PSTWRITER 16.6.0 d001Oct-08-2015 at 22:24:01 }
+
+#1 WARNING(ORCAP-36038): "No_connect" property on Pin "U7.1" ignored for U7: SCHEMATIC1, [02]MODULAR (58.42, 132.08). Connecting pin to net "GND".
+#2 WARNING(ORCAP-36038): "No_connect" property on Pin "U7.2" ignored for U7: SCHEMATIC1, [02]MODULAR (58.42, 132.08). Connecting pin to net "GND".
+#3 WARNING(ORCAP-36038): "No_connect" property on Pin "U7.3" ignored for U7: SCHEMATIC1, [02]MODULAR (58.42, 132.08). Connecting pin to net "GND".
+#4 WARNING(ORCAP-36038): "No_connect" property on Pin "U5.5" ignored for U5: SCHEMATIC1, [02]MODULAR (78.74, 78.74). Connecting pin to net "AD7414_ALT".
+#5 WARNING(ORCAP-36006): Part Name "SWITCH-SPST-4P_SW-4P-5R4X4R5_BACK" is renamed to "SWITCH-SPST-4P_SW-4P-5R4X4R5_BA".
+#6 WARNING(ORCAP-36006): Part Name "SWITCH-SPST-4P_SW-4P-5R4X4R5_ENTER" is renamed to "SWITCH-SPST-4P_SW-4P-5R4X4R5_EN".
+#7 WARNING(ORCAP-36006): Part Name "SWITCH-SPST-4P_SW-4P-5R4X4R5_MENU" is renamed to "SWITCH-SPST-4P_SW-4P-5R4X4R5_ME".
+#8 WARNING(ORCAP-36006): Part Name "NUCLEO-F446RE_NUCLEO-F446RE_NUCLEO-F446RE" is renamed to "NUCLEO-F446RE_NUCLEO-F446RE_NUC".
+#9 WARNING(ORCAP-36006): Part Name "AD7414ARTZ-OREEL7_SOT23-6_AD7414-0" is renamed to "AD7414ARTZ-OREEL7_SOT23-6_AD741".
+INFO(ORCAP-36080): Scanning netlist files ...
+
+Loading... H:\Ñ¸À×ÏÂÔØ\NUCLEO-F446RE_BOOSTPACK\SCH\ALLEGRO/pstchip.dat
+
+Loading... H:\Ñ¸À×ÏÂÔØ\NUCLEO-F446RE_BOOSTPACK\SCH\ALLEGRO/pstchip.dat
+
+Loading... H:\Ñ¸À×ÏÂÔØ\NUCLEO-F446RE_BOOSTPACK\SCH\ALLEGRO/pstxprt.dat
+
+Loading... H:\Ñ¸À×ÏÂÔØ\NUCLEO-F446RE_BOOSTPACK\SCH\ALLEGRO/pstxnet.dat
+packaging the design view...
